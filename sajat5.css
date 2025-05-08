@@ -1,0 +1,49 @@
+.custom-navbar {
+    background-color: black;
+}
+.custom-navbar a {
+    color: aliceblue;
+}
+body{
+    background-image: url(kepek/29.jpg);
+    background-size: 1300px;
+}
+h1{
+    color: rgb(255, 0, 0);
+}
+p{
+    color: rgb(255, 251, 0);
+    margin-left: 20px;
+    height: 50px;
+    text-transform: capitalize;
+}
+h2{
+    color: chocolate;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3{
+    color: deeppink;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h4{
+    color: chocolate;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h5{
+    color: chartreuse;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#kk{
+    margin-left: 30px;
+    color: chocolate;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}

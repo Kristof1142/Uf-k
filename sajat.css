@@ -1,0 +1,52 @@
+.custom-navbar{
+  background-color: black;
+}
+.custom-navbar a {
+  color: rgb(255, 0, 0);
+}
+body{
+    background-image: url(kepek/1.jpg);
+    background-size: cover;
+}
+h1{
+    color: brown;
+}
+  p{
+    color: aliceblue;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+.kart{
+  color:rgb(255, 0, 0);
+  
+}
+h2{
+  color: chocolate;
+  text-align: center;
+}
+h3{
+  color: chartreuse;
+  text-align: center;
+}
+h4{
+  color: brown;
+  text-align: center;
+}
+#irt{
+  color: aliceblue;
+  margin-left: 580px;
+}
+#kep{
+  margin-left: 300px;
+  height: auto;
+  width: 700px;
+}
+#olt{
+  text-align: center;
+  color: aliceblue;
+  background-color: black;
+}
+#hh{
+  color: brown;
+}
+

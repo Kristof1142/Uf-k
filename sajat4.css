@@ -1,0 +1,43 @@
+.custom-navbar{
+    background-color: black;
+}
+.custom-navbar a {
+    color: aliceblue;
+}
+body{
+    background-image: url(kepek/14.jpg);
+
+}
+h1{
+    color: brown;
+}
+#szurk{
+    height: auto;
+    width: 100px;
+}
+h2{
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+}
+h3{
+    color: rgb(241, 186, 5);
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    color: aliceblue;
+    
+}
+#szur{
+    height: auto;
+    width: 200px;
+}
+#gyik{
+    height: auto;
+    width: 200px;
+}
+#szir{
+    height: auto;
+    width: 200px;
+}
